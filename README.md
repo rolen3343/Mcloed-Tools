@@ -69,13 +69,23 @@ Supports:
 
 ## Option 1 - Windows Executable
 
-1. Download the latest release.
-2. Extract the files.
-3. Run: Mcloed_Tools_V1.2.exe
+1. Download the latest release from the **Releases** page.
+2. Extract the downloaded archive to a location of your choice.
+3. Launch **`McLeod_Tools_V1.2.exe`**.
+<img width="636" height="356" alt="image" src="https://github.com/user-attachments/assets/2f1b4d9b-3cdc-4293-a965-f90fa1251d07" />
+### Initial Configuration
 
+On first launch, the application must be configured with the McLeod Remote Desktop file.
 
----
+1. From the main menu, click **Option 4 – Settings**.
+2. Click **Browse** and navigate to your **Remote Packages** folder.
+3. Select the current production McLeod RDP file:
 
+   ```
+   McLeod_25_Prod.rdp
+   ```
+4. Save the settings.
+5. Return to the main menu. McLeod Tools is now ready to use.
 # Excel Shift Tool Usage
 
 The Excel Shift Tool allows users to generate tracking workbooks.
